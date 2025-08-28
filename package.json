@@ -1,0 +1,20 @@
+{
+  "name": "phase-0-final-project",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephine599/phase-0-final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephine599/phase-0-final-project/issues"
+  },
+  "homepage": "https://github.com/josephine599/phase-0-final-project#readme"
+}
